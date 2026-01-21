@@ -1,0 +1,4 @@
+Metric,Definition,Relevance in This Study
+mAP@50,"Mean Average Precision at IoU ≥ 0.50; measures alignment of predicted vs. ground-truth boxes [6], [7], [8].",Primary benchmark for workstation detection accuracy.
+Precision,Ratio of true positives to all positive predictions.,Ensures reliability of detections by minimizing false positives.
+Recall,Ratio of true positives to all ground-truth objects.,"Ensures completeness of detection, avoiding missed workstations."

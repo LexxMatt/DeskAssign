@@ -1,0 +1,5 @@
+Dataset Version,Workstation Range,Number of Images
+Low-Density,1–10,10
+Medium-Density,11–29,16
+High-Density,30+,24
+All Images,≥ 1,50

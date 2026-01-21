@@ -1,0 +1,5 @@
+Project Name Suffix,Training Set,Validation Set,Test Set Composition
+All,All 40 images,10 images,50 images total: 24 high-density; 16 medium-density; 10 low-density
+Low,Same as Project-All,Same as Project-All,10 low-density images
+Medium,Same as Project-All,Same as Project-All,16 medium-density images
+High,Same as Project-All,Same as Project-All,24 high-density images

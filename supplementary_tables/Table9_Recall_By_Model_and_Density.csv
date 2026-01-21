@@ -1,0 +1,6 @@
+Model Name,All Images,High Density,Medium Density,Low Density
+Roboflow 3.0,0.916,0.878,0.985,0.863
+YOLOv11,0.893,0.889,0.91,0.898
+YOLOv12,0.797,0.919,0.854,0.865
+YOLO-NAS,0.913,0.931,0.934,0.929
+RF-DETR,0.856,0.866,0.866,0.888

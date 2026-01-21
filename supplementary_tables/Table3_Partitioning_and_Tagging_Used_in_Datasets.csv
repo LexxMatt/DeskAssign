@@ -1,0 +1,5 @@
+Split,High,Medium,Low,Total
+Train,15,16,9,40
+Validate,4,4,2,10
+Test,24,16,10,50
+Totals,43,36,21,100

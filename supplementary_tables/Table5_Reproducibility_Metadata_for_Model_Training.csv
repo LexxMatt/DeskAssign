@@ -1,0 +1,11 @@
+Category,Details
+Model Tags,"YOLOv11, YOLOv12, YOLO-NAS, RF-DETR, Roboflow 3.0 (all V1, best COCO models)"
+Pretraining,"COCO 2017 (YOLO-NAS-S, inferred; not recorded in .pt)"
+Train Config,Epochs: 170; Batch: n/a; LR: ~0.001; Opt: AdamW; WD: 0.0005 (inferred defaults)
+Augmentation,Auto-orient; 640×640 resize; contrast eq.; horiz/vert flip; 90° rotate; ±12° rotation; ±20% B/C shift
+Environment,CUDA 12.6; cuDNN 9.5.1; Torch 2.7.1; TorchVision 0.22.1; GPU model n/a
+Schedule,170 epochs; likely 3-epoch warmup + cosine decay
+Dataset Split,Train: 40; Val: 10; Test: 50
+Metrics (Final),Prec@0.5: 95.2; Rec@0.5: 93.1; mAP@0.5: 96.9; F1@0.5: 94.1
+Metrics (Best),Prec@0.5: 97.3; Rec@0.5: 92.6; mAP@0.5: 96.5; F1@0.5: 94.9
+Loss Summary,Box: ~0.4; Class: ~1.0; Obj: ~0.36
